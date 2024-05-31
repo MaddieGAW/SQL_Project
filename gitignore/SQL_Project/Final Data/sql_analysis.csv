@@ -1,0 +1,490 @@
+year,country_iso,country,total_affected,country_fatalities
+1997,706,Somalia,15,49
+1997,180,"DR Congo",10,2291
+1997,694,"Sierra Leone",3,40
+1997,231,Ethiopia,2,84
+1997,024,Angola,3,5258
+1997,178,Congo,3,41
+1998,108,Burundi,6,1238
+1998,180,"DR Congo",1,3376
+1998,800,Uganda,2,1161
+1998,694,"Sierra Leone",1,0
+1998,729,Sudan,7,4046
+1998,706,Somalia,18,4
+1998,231,Ethiopia,6,958
+1998,024,Angola,5,50810
+1999,706,Somalia,10,110
+1999,694,"Sierra Leone",3,113
+1999,024,Angola,13,73725
+1999,729,Sudan,9,2439
+1999,231,Ethiopia,1,18839
+1999,108,Burundi,5,1718
+1999,430,Liberia,6,529
+1999,404,Kenya,1,339
+2000,706,Somalia,16,33
+2000,729,Sudan,15,3116
+2000,024,Angola,7,3957
+2000,508,Mozambique,1,2
+2000,231,Ethiopia,2,1413
+2000,404,Kenya,1,449
+2000,180,"DR Congo",6,1680
+2000,694,"Sierra Leone",1,0
+2000,324,Guinea,4,1345
+2000,108,Burundi,1,3891
+2001,706,Somalia,19,72
+2001,729,Sudan,6,4277
+2001,180,"DR Congo",10,2379
+2001,108,Burundi,15,3917
+2001,120,Cameroon,1,4
+2001,450,Madagascar,1,2
+2001,024,Angola,3,9113
+2001,140,"Central African Republic",1,52
+2002,108,Burundi,3,2136
+2002,180,"DR Congo",4,6077
+2002,706,Somalia,8,83
+2002,430,Liberia,1,36
+2002,729,Sudan,2,9329
+2002,710,"South Africa",1,28
+2002,800,Uganda,7,1861
+2002,024,Angola,14,275
+2002,178,Congo,2,1
+2003,180,"DR Congo",10,3405
+2003,800,Uganda,2,2839
+2003,404,Kenya,1,173
+2003,706,Somalia,8,764
+2003,384,"Cote D'Ivoire",5,1201
+2003,430,Liberia,7,324
+2003,729,Sudan,11,8159
+2003,710,"South Africa",1,16
+2003,108,Burundi,4,1630
+2003,686,Senegal,2,9
+2003,232,Eritrea,3,24
+2003,024,Angola,7,6
+2004,180,"DR Congo",6,400
+2004,706,Somalia,7,926
+2004,404,Kenya,3,184
+2004,566,Nigeria,3,2398
+2004,800,Uganda,3,1415
+2004,729,Sudan,23,11451
+2004,384,"Cote D'Ivoire",1,494
+2005,706,Somalia,12,563
+2005,404,Kenya,3,353
+2005,729,Sudan,73,1886
+2005,716,Zimbabwe,1,8
+2005,454,Malawi,3,0
+2005,148,Chad,7,515
+2005,800,Uganda,8,1092
+2005,180,"DR Congo",7,565
+2005,450,Madagascar,1,3
+2006,729,Sudan,85,1662
+2006,180,"DR Congo",7,412
+2006,706,Somalia,14,1166
+2006,140,"Central African Republic",3,291
+2006,710,"South Africa",1,16
+2006,148,Chad,5,1905
+2006,686,Senegal,4,206
+2006,231,Ethiopia,2,366
+2006,454,Malawi,1,0
+2006,232,Eritrea,2,2
+2006,426,Lesotho,1,2
+2007,454,Malawi,2,1
+2007,729,Sudan,35,2157
+2007,404,Kenya,1,963
+2007,706,Somalia,16,2052
+2007,140,"Central African Republic",2,218
+2007,148,Chad,10,842
+2007,800,Uganda,2,308
+2007,466,Mali,3,18
+2007,834,Tanzania,1,8
+2007,012,Algeria,11,689
+2007,108,Burundi,2,63
+2008,148,Chad,10,272
+2008,231,Ethiopia,4,639
+2008,729,Sudan,42,2119
+2008,706,Somalia,86,2076
+2008,508,Mozambique,3,2
+2008,108,Burundi,3,197
+2008,454,Malawi,2,3
+2008,120,Cameroon,1,234
+2008,404,Kenya,2,1156
+2008,834,Tanzania,1,7
+2008,180,"DR Congo",7,2269
+2008,694,"Sierra Leone",1,7
+2009,706,Somalia,33,1137
+2009,180,"DR Congo",18,5119
+2009,729,Sudan,33,2874
+2009,231,Ethiopia,1,1862
+2009,508,Mozambique,3,4
+2009,430,Liberia,1,0
+2009,894,Zambia,1,16
+2009,404,Kenya,7,185
+2009,140,"Central African Republic",11,260
+2009,478,Mauritania,4,2
+2009,148,Chad,6,261
+2009,800,Uganda,3,158
+2009,466,Mali,1,74
+2010,231,Ethiopia,4,1588
+2010,706,Somalia,11,3655
+2010,180,"DR Congo",15,1458
+2010,800,Uganda,4,289
+2010,404,Kenya,2,219
+2010,586,Pakistan,29,8126
+2010,729,Sudan,20,1756
+2010,450,Madagascar,2,3
+2010,562,Niger,1,21
+2010,120,Cameroon,1,6
+2010,148,Chad,2,109
+2010,454,Malawi,3,0
+2010,050,Bangladesh,1,612
+2010,694,"Sierra Leone",1,0
+2010,434,"Libyan Arab Jamahiriya",9,0
+2011,706,Somalia,23,2009
+2011,729,Sudan,25,4041
+2011,562,Niger,1,25
+2011,586,Pakistan,29,4535
+2011,140,"Central African Republic",10,204
+2011,834,Tanzania,1,36
+2011,180,"DR Congo",17,625
+2011,434,"Libyan Arab Jamahiriya",2,5532
+2011,104,Myanmar,1,1440
+2011,384,"Cote D'Ivoire",2,817
+2011,800,Uganda,2,29
+2011,231,Ethiopia,5,655
+2011,404,Kenya,8,207
+2011,728,"South Sudan",20,1865
+2011,148,Chad,1,17
+2011,566,Nigeria,46,2472
+2011,108,Burundi,1,112
+2012,586,Pakistan,25,6131
+2012,706,Somalia,32,3364
+2012,686,Senegal,1,24
+2012,728,"South Sudan",25,4110
+2012,404,Kenya,16,514
+2012,729,Sudan,6,2276
+2012,120,Cameroon,2,5
+2012,562,Niger,7,15
+2012,180,"DR Congo",1,1442
+2012,788,Tunisia,2,14
+2012,148,Chad,3,3
+2012,434,"Libyan Arab Jamahiriya",9,552
+2012,144,"Sri Lanka",1,39
+2012,231,Ethiopia,1,885
+2013,586,Pakistan,41,4472
+2013,180,"DR Congo",11,1973
+2013,706,Somalia,40,3172
+2013,404,Kenya,10,771
+2013,686,Senegal,1,15
+2013,728,"South Sudan",46,4368
+2013,729,Sudan,25,6822
+2013,566,Nigeria,9,4686
+2013,478,Mauritania,1,0
+2013,104,Myanmar,1,471
+2013,800,Uganda,1,34
+2013,140,"Central African Republic",7,2559
+2013,231,Ethiopia,2,584
+2013,434,"Libyan Arab Jamahiriya",1,443
+2013,466,Mali,1,908
+2014,728,"South Sudan",23,6447
+2014,120,Cameroon,2,1366
+2014,706,Somalia,13,4469
+2014,140,"Central African Republic",25,3618
+2014,729,Sudan,21,4165
+2014,524,Nepal,1,6
+2014,466,Mali,10,382
+2014,586,Pakistan,18,5419
+2014,404,Kenya,5,611
+2014,116,Cambodia,1,23
+2014,180,"DR Congo",9,1230
+2014,148,Chad,2,50
+2014,434,"Libyan Arab Jamahiriya",1,3350
+2014,231,Ethiopia,4,335
+2014,834,Tanzania,1,29
+2014,204,Benin,1,0
+2014,324,Guinea,3,13
+2014,800,Uganda,1,195
+2014,104,Myanmar,1,501
+2015,728,"South Sudan",42,3567
+2015,706,Somalia,26,4137
+2015,729,Sudan,12,3496
+2015,894,Zambia,1,8
+2015,140,"Central African Republic",14,525
+2015,180,"DR Congo",28,1762
+2015,324,Guinea,1,34
+2015,231,Ethiopia,2,811
+2015,104,Myanmar,3,1287
+2015,887,Yemen,17,17496
+2015,466,Mali,6,434
+2015,120,Cameroon,3,1439
+2015,434,"Libyan Arab Jamahiriya",3,3081
+2015,586,Pakistan,1,4548
+2015,800,Uganda,1,29
+2015,404,Kenya,2,503
+2015,050,Bangladesh,1,502
+2015,108,Burundi,3,1111
+2015,710,"South Africa",1,211
+2015,694,"Sierra Leone",1,2
+2016,728,"South Sudan",98,3686
+2016,887,Yemen,13,15661
+2016,729,Sudan,7,3904
+2016,854,"Burkina Faso",2,81
+2016,706,Somalia,17,5950
+2016,180,"DR Congo",22,1740
+2016,024,Angola,1,115
+2016,140,"Central African Republic",7,739
+2016,050,Bangladesh,3,420
+2016,368,Iraq,1,56331
+2016,466,Mali,5,320
+2016,566,Nigeria,3,4896
+2016,275,"Occupied Palestinian Territories",1,177
+2016,404,Kenya,2,226
+2016,562,Niger,2,367
+2016,586,Pakistan,1,2216
+2017,887,Yemen,13,17650
+2017,466,Mali,10,946
+2017,760,"Syrian Arab Republic",53,54386
+2017,706,Somalia,36,6122
+2017,728,"South Sudan",79,4859
+2017,566,Nigeria,31,4949
+2017,004,Afghanistan,31,36607
+2017,729,Sudan,4,1304
+2017,434,"Libyan Arab Jamahiriya",3,1708
+2017,140,"Central African Republic",23,1832
+2017,104,Myanmar,1,1408
+2017,586,Pakistan,5,1721
+2017,180,"DR Congo",10,3211
+2017,800,Uganda,1,66
+2017,368,Iraq,3,31950
+2017,694,"Sierra Leone",1,5
+2017,404,Kenya,4,740
+2017,148,Chad,1,296
+2017,450,Madagascar,1,210
+2018,728,"South Sudan",111,1716
+2018,332,Haiti,1,267
+2018,004,Afghanistan,47,43264
+2018,275,"Occupied Palestinian Territories",3,413
+2018,434,"Libyan Arab Jamahiriya",5,1226
+2018,760,"Syrian Arab Republic",68,30035
+2018,180,"DR Congo",43,3192
+2018,887,Yemen,7,34275
+2018,706,Somalia,12,5703
+2018,788,Tunisia,1,34
+2018,140,"Central African Republic",21,1171
+2018,466,Mali,22,1747
+2018,404,Kenya,6,458
+2018,694,"Sierra Leone",1,10
+2018,682,"Saudi Arabia",1,1514
+2018,608,Philippines,1,2098
+2018,031,Azerbaijan,5,47
+2018,144,"Sri Lanka",1,26
+2018,104,Myanmar,1,261
+2018,562,Niger,1,506
+2018,729,Sudan,9,1054
+2018,012,Algeria,1,66
+2018,558,Nicaragua,1,354
+2018,231,Ethiopia,3,1579
+2018,050,Bangladesh,3,272
+2018,324,Guinea,1,40
+2018,800,Uganda,4,146
+2018,320,Guatemala,2,799
+2018,566,Nigeria,5,6162
+2018,120,Cameroon,2,1663
+2018,368,Iraq,3,5221
+2018,834,Tanzania,2,37
+2018,484,Mexico,4,9593
+2018,222,"El Salvador",1,960
+2018,586,Pakistan,1,1226
+2019,760,"Syrian Arab Republic",86,15629
+2019,140,"Central African Republic",24,596
+2019,368,Iraq,1,3451
+2019,320,Guatemala,2,1113
+2019,887,Yemen,19,28011
+2019,608,Philippines,3,1706
+2019,384,"Cote D'Ivoire",1,46
+2019,834,Tanzania,3,37
+2019,466,Mali,29,1875
+2019,050,Bangladesh,6,391
+2019,004,Afghanistan,50,41608
+2019,180,"DR Congo",48,3801
+2019,800,Uganda,10,163
+2019,231,Ethiopia,13,670
+2019,144,"Sri Lanka",3,304
+2019,729,Sudan,9,776
+2019,854,"Burkina Faso",8,2216
+2019,728,"South Sudan",62,1801
+2019,706,Somalia,15,4839
+2019,400,Jordan,3,25
+2019,068,Bolivia,1,36
+2019,275,"Occupied Palestinian Territories",8,184
+2019,332,Haiti,4,468
+2019,108,Burundi,1,305
+2019,484,Mexico,2,9223
+2019,566,Nigeria,23,5952
+2019,120,Cameroon,19,1302
+2019,404,Kenya,2,329
+2019,586,Pakistan,5,1157
+2019,562,Niger,4,729
+2019,508,Mozambique,1,691
+2019,788,Tunisia,1,30
+2019,148,Chad,2,567
+2019,804,Ukraine,1,412
+2019,104,Myanmar,3,1512
+2019,434,"Libyan Arab Jamahiriya",2,2294
+2019,686,Senegal,1,4
+2019,454,Malawi,3,27
+2019,218,Ecuador,1,12
+2019,116,Cambodia,1,5
+2020,417,Kyrgyzstan,1,2
+2020,050,Bangladesh,2,278
+2020,434,"Libyan Arab Jamahiriya",3,1563
+2020,180,"DR Congo",41,6061
+2020,508,Mozambique,6,1781
+2020,760,"Syrian Arab Republic",85,8214
+2020,728,"South Sudan",76,2382
+2020,404,Kenya,1,355
+2020,140,"Central African Republic",31,449
+2020,368,Iraq,9,2363
+2020,586,Pakistan,3,838
+2020,120,Cameroon,21,1762
+2020,466,Mali,39,2856
+2020,706,Somalia,25,3341
+2020,332,Haiti,4,652
+2020,004,Afghanistan,17,31359
+2020,450,Madagascar,1,358
+2020,484,Mexico,5,8364
+2020,604,Peru,1,45
+2020,887,Yemen,12,19801
+2020,729,Sudan,6,959
+2020,104,Myanmar,1,684
+2020,356,India,2,1346
+2020,231,Ethiopia,21,4373
+2020,800,Uganda,10,288
+2020,792,Turkey,2,359
+2020,170,Colombia,3,1773
+2020,854,"Burkina Faso",7,2304
+2020,566,Nigeria,17,8459
+2020,152,Chile,1,25
+2020,178,Congo,2,1
+2020,562,Niger,20,1126
+2020,400,Jordan,1,16
+2020,384,"Cote D'Ivoire",1,151
+2020,716,Zimbabwe,1,21
+2020,894,Zambia,1,40
+2020,072,Botswana,1,7
+2020,858,Uruguay,1,2
+2020,108,Burundi,1,330
+2021,566,Nigeria,13,10880
+2021,466,Mali,47,1913
+2021,706,Somalia,6,3437
+2021,120,Cameroon,17,1653
+2021,516,Namibia,1,2
+2021,004,Afghanistan,61,42654
+2021,728,"South Sudan",87,2162
+2021,332,Haiti,18,789
+2021,729,Sudan,9,1651
+2021,231,Ethiopia,21,9152
+2021,694,"Sierra Leone",1,2
+2021,222,"El Salvador",2,425
+2021,624,Guinea-Bissau,1,0
+2021,140,"Central African Republic",21,1714
+2021,430,Liberia,2,7
+2021,404,Kenya,1,501
+2021,760,"Syrian Arab Republic",51,5872
+2021,180,"DR Congo",32,6212
+2021,586,Pakistan,5,1411
+2021,104,Myanmar,29,10989
+2021,887,Yemen,9,18407
+2021,170,Colombia,1,2111
+2021,434,"Libyan Arab Jamahiriya",1,115
+2021,275,"Occupied Palestinian Territories",3,333
+2021,854,"Burkina Faso",6,2374
+2021,148,Chad,1,831
+2021,800,Uganda,2,507
+2021,748,Swaziland,1,46
+2021,426,Lesotho,1,9
+2021,050,Bangladesh,1,359
+2021,562,Niger,1,1498
+2021,450,Madagascar,2,303
+2021,068,Bolivia,1,8
+2022,104,Myanmar,30,19463
+2022,616,Poland,1,2
+2022,804,Ukraine,61,33803
+2022,422,Lebanon,1,53
+2022,120,Cameroon,13,1735
+2022,728,"South Sudan",62,2446
+2022,180,"DR Congo",33,6303
+2022,340,Honduras,1,694
+2022,760,"Syrian Arab Republic",18,5951
+2022,466,Mali,44,4863
+2022,706,Somalia,18,6521
+2022,004,Afghanistan,12,4035
+2022,566,Nigeria,15,10757
+2022,854,"Burkina Faso",16,4244
+2022,332,Haiti,20,1495
+2022,050,Bangladesh,10,309
+2022,887,Yemen,11,7163
+2022,404,Kenya,1,701
+2022,364,"Iran, Islamic Republic of",2,737
+2022,140,"Central African Republic",27,873
+2022,729,Sudan,11,2065
+2022,508,Mozambique,4,922
+2022,818,Egypt,1,273
+2022,562,Niger,7,990
+2022,384,"Cote D'Ivoire",1,45
+2022,231,Ethiopia,20,6921
+2022,214,"Dominican Republic",1,22
+2022,368,Iraq,8,1949
+2022,788,Tunisia,1,1
+2022,586,Pakistan,2,1778
+2022,800,Uganda,1,363
+2022,275,"Occupied Palestinian Territories",1,223
+2022,170,Colombia,2,2300
+2022,598,"Papua New Guinea",2,227
+2022,862,Venezuela,1,827
+2022,834,Tanzania,1,39
+2023,729,Sudan,56,13284
+2023,728,"South Sudan",92,1287
+2023,140,"Central African Republic",8,583
+2023,466,Mali,27,4320
+2023,562,Niger,1,1149
+2023,804,Ukraine,32,31150
+2023,566,Nigeria,8,8764
+2023,508,Mozambique,2,304
+2023,854,"Burkina Faso",4,8499
+2023,231,Ethiopia,9,4013
+2023,706,Somalia,15,8366
+2023,104,Myanmar,11,15707
+2023,275,"Occupied Palestinian Territories",215,22627
+2023,624,Guinea-Bissau,1,5
+2023,180,"DR Congo",17,4035
+2023,332,Haiti,6,2286
+2023,320,Guatemala,1,850
+2023,694,"Sierra Leone",2,32
+2023,887,Yemen,6,3235
+2023,426,Lesotho,1,12
+2023,760,"Syrian Arab Republic",5,6276
+2023,834,Tanzania,3,20
+2023,050,Bangladesh,1,338
+2023,422,Lebanon,1,247
+2023,170,Colombia,1,1983
+2023,586,Pakistan,1,2333
+2023,376,Israel,4,1503
+2023,144,"Sri Lanka",1,7
+2023,356,India,1,1212
+2023,404,Kenya,1,1015
+2024,728,"South Sudan",9,355
+2024,466,Mali,8,1158
+2024,729,Sudan,3,2833
+2024,887,Yemen,1,699
+2024,508,Mozambique,1,176
+2024,275,"Occupied Palestinian Territories",80,11502
+2024,231,Ethiopia,6,2515
+2024,120,Cameroon,3,424
+2024,760,"Syrian Arab Republic",4,2061
+2024,706,Somalia,1,1659
+2024,566,Nigeria,2,2719
+2024,804,Ukraine,6,6420
+2024,180,"DR Congo",1,1079
+2024,148,Chad,1,121
+2024,368,Iraq,1,285
+2024,586,Pakistan,1,672
+2024,140,"Central African Republic",2,191
